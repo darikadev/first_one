@@ -1,0 +1,5 @@
+wordss=open("textt.txt","w")
+wordss.write("Hello My name is Darika and I am a Backend Developer")
+wordss.close()
+words1=(wordss.count())
+print(words1)
